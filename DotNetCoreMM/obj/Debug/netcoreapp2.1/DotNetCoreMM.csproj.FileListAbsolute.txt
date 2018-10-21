@@ -1,0 +1,14 @@
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\DotNetCoreMM\bin\Debug\netcoreapp2.1\DotNetCoreMM.deps.json
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\DotNetCoreMM\bin\Debug\netcoreapp2.1\DotNetCoreMM.runtimeconfig.json
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\DotNetCoreMM\bin\Debug\netcoreapp2.1\DotNetCoreMM.runtimeconfig.dev.json
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\DotNetCoreMM\bin\Debug\netcoreapp2.1\DotNetCoreMM.dll
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\DotNetCoreMM\bin\Debug\netcoreapp2.1\DotNetCoreMM.pdb
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\DotNetCoreMM\obj\Debug\netcoreapp2.1\DotNetCoreMM.csproj.CoreCompileInputs.cache
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\DotNetCoreMM\obj\Debug\netcoreapp2.1\DotNetCoreMM.RazorAssemblyInfo.cache
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\DotNetCoreMM\obj\Debug\netcoreapp2.1\DotNetCoreMM.RazorAssemblyInfo.cs
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\DotNetCoreMM\obj\Debug\netcoreapp2.1\DotNetCoreMM.AssemblyInfoInputs.cache
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\DotNetCoreMM\obj\Debug\netcoreapp2.1\DotNetCoreMM.AssemblyInfo.cs
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\DotNetCoreMM\obj\Debug\netcoreapp2.1\DotNetCoreMM.RazorTargetAssemblyInfo.cache
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\DotNetCoreMM\obj\Debug\netcoreapp2.1\DotNetCoreMM.dll
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\DotNetCoreMM\obj\Debug\netcoreapp2.1\DotNetCoreMM.pdb
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\DotNetCoreMM\obj\Debug\netcoreapp2.1\DotNetCoreMM.csprojAssemblyReference.cache

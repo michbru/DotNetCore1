@@ -1,0 +1,17 @@
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfoInputs.cache
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfo.cs
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.deps.json
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.json
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.dev.json
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.dll
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\XUnitTestProject1\bin\Debug\netcoreapp2.1\DotNetCoreMM.dll
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\XUnitTestProject1\bin\Debug\netcoreapp2.1\DotNetCoreMM.pdb
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csprojAssemblyReference.cache
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CopyComplete
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.pdb
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.dll
+C:\zTopics\zMagenicMastersDotNetCore\MM\DotNetCoreMM\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.pdb
